@@ -14,7 +14,7 @@ sh create_project arg1 [arg 2]
 The created virtual environment will have the following form: **project_name\project_name-env\**.
 
 ## Activate in Windows
-If you are using windows system, to activate environment it's necessary to run **project_path\project_path-env\Scripts\activate**. To deactivate, just run **deactivate**
+If you are using windows system, to activate environment it's necessary to run **project_path\project_path-env\Scripts\activate** . To deactivate, just run **deactivate**
 
 # TO-DO
 - Make possible to create activate.bat and deactivate.bat files (done, but commented)
